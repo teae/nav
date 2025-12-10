@@ -1,0 +1,6 @@
+{
+    "version": 2,
+    "routes": [
+      {"src": "/(.*)","dest": "https://daohang.guoke.de/$1"}
+    ]
+}
